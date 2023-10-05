@@ -13,6 +13,14 @@ This is a repository for a Flutter application.
 # Download the app
 https://play.google.com/store/apps/details?id=com.badiniibrahim.db_movie&hl=fr
 
+# Getting Started
+Follow the steps below to run the app on your local machine. You'll need to make sure you have flutter installed along with that Android Studio and XCode installed too in order to test this application in a simulator. Let me know if you encounter issues with the app
+
+1. Make sure to have flutter installed on your machine
+2. Clone the repo to your local machine
+3. Open an emulator and run command 'flutter run' <Without quotes> within the cloned repo's folder.
+4. Try it out.
+
 # Screenshot for You 💖
 
 ![alt text](1.jpg)
