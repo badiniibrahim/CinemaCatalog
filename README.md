@@ -1,5 +1,6 @@
 # 🔥🔥 Build and Deploy: Flutter application 🔥🔥
 This is a repository for a Flutter application.
+
 Star⭐ the repo if you like what you like more stuff on flutter 😉.
 
 <h1 align="center">
