@@ -7,7 +7,7 @@ This is a repository for a Flutter application.
 [![GitHub DaymaManish](https://img.shields.io/github/followers/DaymaManish?label=follow&style=social)](https://github.com/DaymaManish)
 [![Gmail Badge](https://img.shields.io/badge/-manishdayma65@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manishdayma65@gmail.com)](mailto:manishdayma65@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daymamanish/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badini-ibrahim-s-306b119b/)
 
 # Download the app
 https://play.google.com/store/apps/details?id=com.badiniibrahim.db_movie&hl=fr
