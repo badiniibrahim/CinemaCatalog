@@ -1,7 +1,7 @@
 # 🔥🔥 Build and Deploy: Flutter application 🔥🔥
 This is a repository for a Flutter application.
 <h1 align="center">
-  Dayma Manish
+  SAWADOGO Badini Ibrahim
 </h1>
 
 [![GitHub DaymaManish](https://img.shields.io/github/followers/DaymaManish?label=follow&style=social)](https://github.com/DaymaManish)
