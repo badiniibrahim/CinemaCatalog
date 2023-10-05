@@ -1,4 +1,4 @@
-# 🔥🔥 Build and Deploy: Flutter application 🔥🔥
+## Build and Deploy: Flutter application
 This is a repository for a Flutter application.
 <h1 align="center">
   SAWADOGO Badini Ibrahim
