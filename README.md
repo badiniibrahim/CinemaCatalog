@@ -4,7 +4,7 @@ This is a repository for a Flutter application.
   SAWADOGO Badini Ibrahim
 </h1>
 
-[![GitHub DaymaManish](https://img.shields.io/github/followers/badiniibrahim?label=follow&style=social)](https://github.com/badiniibrahim)
+[![GitHub badiniibrahim](https://img.shields.io/github/followers/badiniibrahim?label=follow&style=social)](https://github.com/badiniibrahim)
 
 [![Gmail Badge](https://img.shields.io/badge/-sawadogo.badiniibrahim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=sawadogo.badiniibrahim@gmail.com)](mailto:sawadogo.badiniibrahim@gmail.com)
 
