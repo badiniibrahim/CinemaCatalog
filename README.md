@@ -8,7 +8,6 @@ This is a repository for a Flutter application.
 [![Gmail Badge](https://img.shields.io/badge/-manishdayma65@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manishdayma65@gmail.com)](mailto:manishdayma65@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daymamanish/)
-<a href="https://www.buymeacoffee.com/manishdayma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 # Download the app
 https://play.google.com/store/apps/details?id=com.badiniibrahim.db_movie&hl=fr
